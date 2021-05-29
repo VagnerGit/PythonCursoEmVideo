@@ -1,5 +1,7 @@
-'''Exercício Python 10: Crie um programa que leia quanto dinheiro uma
-pessoa tem na carteira e mostre quantos dólares ela pode comprar.'''
+"""
+Exercício Python 10: Crie um programa que leia quanto dinheiro uma
+pessoa tem na carteira e mostre quantos dólares ela pode comprar.
+"""
 
 r = float(input('Quantos Reais quer converter em Dolar '))
 #d = r*3.27

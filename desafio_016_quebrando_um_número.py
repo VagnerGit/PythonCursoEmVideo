@@ -1,6 +1,8 @@
-'''Exercício Python 16:
+"""
+Exercício Python 16:
 Crie um programa que leia um
-número Real qualquer pelo teclado e mostre na tela a sua porção Inteira.'''
+número Real qualquer pelo teclado e mostre na tela a sua porção Inteira.
+"""
 
 '''import math
 n = float(input('Digite Nº com casas decimais = '))

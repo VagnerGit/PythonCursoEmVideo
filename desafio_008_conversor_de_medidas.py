@@ -1,5 +1,8 @@
-'''Exercício Python 8: Escreva um programa que leia um valor em metros e o
-exiba convertido em centímetros e milímetros.'''
+"""
+Exercício Python 8:
+    Escreva um programa que leia um valor em metros e o
+exiba convertido em centímetros e milímetros.
+"""
 
 n = float(input('Digite uma distancia em metros '))
 #cen = n*100

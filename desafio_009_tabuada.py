@@ -1,5 +1,8 @@
-'''Exercício Python 9: Faça um programa que leia um número Inteiro
-qualquer e mostre na tela a sua tabuada.'''
+"""
+Exercício Python 9:
+Faça um programa que leia um número Inteiro
+qualquer e mostre na tela a sua tabuada.
+"""
 
 n = int(input('Digite um numero inteiro '))
 n0 = n * 0

@@ -1,6 +1,8 @@
-'''Exercício Python 5:
- Faça um programa que leia um número Inteiro e
-mostre na tela o seu sucessor e seu antecessor.'''
+"""
+Exercício Python 5:
+Faça um programa que leia um número Inteiro e
+mostre na tela o seu sucessor e seu antecessor.
+"""
 
 n = int(input('digite um numero inteiro '))
 #ant = n-1
